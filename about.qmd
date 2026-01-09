@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/liam-boyd-138514209/
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I am a Data Analyst specializing in the energy sector, with a focus on applying quantitative methods to market challenges. My background combines academic rigor with professional experience at Orennia, where I have developed data-driven insights for the energy transition. Proficient in R and Python, I contribute technical analysis to streamline workplace techniques. My work is driven by a long-term focus on power trading and the mechanics of financial energy markets.
