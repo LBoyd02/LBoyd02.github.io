@@ -1,11 +1,18 @@
 ---
 title: "About Me"
+image: my-picture.jpg
 about:
   template: jolla
+  image-shape: round
+  image-width: 15em
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/liam-boyd-138514209/
 ---
 
-I am a Data Analyst specializing in the energy sector, with a focus on applying quantitative methods to market challenges. My background combines academic rigor with professional experience at Orennia, where I have developed data-driven insights for the energy transition. Proficient in R and Python, I contribute technical analysis to streamline workplace techniques. My work is driven by a long-term focus on power trading and the mechanics of financial energy markets.
+I'm a Data Analyst specializing in the energy sector, where I apply quantitative methods to complex market challenges. My academic background combines finance and data science, which I've applied professionally across both wholesale and retail energy markets. At Orennia, I analyze generation assets and grid fundamentals, while my previous work at 8760 focused on customer-level data, examining electricity and gas billing patterns to inform retail strategy.
+ 
+I work primarily in R, Python, SQL, and Excel to build analytical workflows that deliver actionable insights. Over the longer term, I'm particularly interested in power trading and the structure of financial energy markets.
+ 
+Outside of work, I'm an avid car enthusiast and traveler, often planning international trips around music festivals and exploring new cities.
