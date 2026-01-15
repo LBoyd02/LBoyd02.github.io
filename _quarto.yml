@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "posts/movie_analysis.html"
   output-dir: docs
 website:
   title: "Liam Boyd"
@@ -12,8 +14,8 @@ website:
 format:
   html:
     theme:
-      light: brite
-      dark: brite
+      light: lux
+      dark: cyborg
     css: styles.css
     toc: true
     page-layout: full
