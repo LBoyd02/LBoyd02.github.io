@@ -5,7 +5,7 @@ listing:
   - title: "A Comprehensive Profit Evaluation of Modern Cinema"
     path: "posts/movie_analysis.html"
     date: "2024-12-7"
-    author: "Matt Schneider, Liam Boyd"
+    author: "Liam Boyd, Matt Schneider"
     image: "images/movie-analysis.jpg"
     description: "A statistical evaluation of movie profitability using K-means clustering, PCA, and decision tree models to identify optimal investment strategies."
   type: default
