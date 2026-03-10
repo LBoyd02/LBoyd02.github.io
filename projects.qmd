@@ -8,6 +8,12 @@ listing:
     author: "Liam Boyd, Matt Schneider"
     image: "images/movie-analysis.jpg"
     description: "A statistical evaluation of movie profitability using K-means clustering, PCA, and decision tree models to identify optimal investment strategies."
+  - title: "Fitness & Portfolio Management App"
+    path: "posts/bond-risk-app.html"
+    date: "2026-03-10"
+    author: "Liam Boyd"
+    image: "images/bond-app.jpg" # Add a screenshot to your images folder
+    description: "An interactive R Shiny dashboard for tracking macros, fitness metrics, and managing financial portfolios."
   type: default
   sort:
     - "date"
