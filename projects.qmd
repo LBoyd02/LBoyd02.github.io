@@ -2,6 +2,12 @@
 title: "Projects"
 listing:
   contents:
+  - title: "Energy & Fixed Income Market Dynamics"
+    path: "posts/golem-app.html"
+    date: "2026-04-10"
+    author: "Liam Boyd"
+    image: "images/oil-gas.jpg"
+    description: ""
   - title: "A Comprehensive Profit Evaluation of Modern Cinema"
     path: "posts/movie_analysis.html"
     date: "2024-12-7"

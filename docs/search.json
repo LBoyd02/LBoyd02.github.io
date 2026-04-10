@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A Comprehensive Profit Evaluation of Modern Cinema\n\n\n\n\n\nDec 7, 2024\n\n\nLiam Boyd, Matt Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nFitness & Portfolio Management App\n\n\n\n\n\nMar 10, 2026\n\n\nLiam Boyd\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Liam Boyd",
@@ -14,10 +7,31 @@
     "text": "About Me\nI’m a Data Analyst specializing in the energy sector, where I apply quantitative methods to complex market challenges. My academic background combines finance and data science, which I’ve applied professionally across both wholesale and retail energy markets. At Orennia, I analyze generation assets and grid fundamentals, while my previous work at 8760 focused on customer-level data, examining electricity and gas billing patterns to inform retail strategy.\nI work primarily in R, Python, SQL, and Excel to build analytical workflows that deliver actionable insights. Over the longer term, I’m particularly interested in power trading and the structure of financial energy markets.\nOutside of work, I’m an avid car enthusiast and traveler, often planning international trips around music festivals and exploring new cities."
   },
   {
+    "objectID": "bond-risk-app.html",
+    "href": "bond-risk-app.html",
+    "title": "Fitness & Portfolio Management App",
+    "section": "",
+    "text": "Check out the interactive application below:"
+  },
+  {
     "objectID": "posts/bond-risk-app.html",
     "href": "posts/bond-risk-app.html",
     "title": "Fitness & Portfolio Management App",
     "section": "",
     "text": "Check out the interactive application below:"
+  },
+  {
+    "objectID": "posts/golem-app.html",
+    "href": "posts/golem-app.html",
+    "title": "Energy & Fixed Income Market Dynamics",
+    "section": "",
+    "text": "Check out the interactive application below:"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A Comprehensive Profit Evaluation of Modern Cinema\n\n\n\n\n\n\n\n\n\nDec 7, 2024\n\n\nLiam Boyd, Matt Schneider\n\n\n\n\n\n\n  \n\n\n\n\nFitness & Portfolio Management App\n\n\n\n\n\n\n\n\n\nMar 10, 2026\n\n\nLiam Boyd\n\n\n\n\n\n\n  \n\n\n\n\nEnergy & Fixed Income Market Dynamics\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nLiam Boyd\n\n\n\n\n\n\nNo matching items"
   }
 ]
