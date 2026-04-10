@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(quarto render:*)"
+      "Bash(quarto render:*)",
+      "Bash(git status:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git add:*)"
     ]
   }
 }
