@@ -1,1 +1,13 @@
 /* css styles */
+
+/* Full-width layout for individual project pages (not the listing page) */
+.page-layout-full #quarto-document-content:not(:has(.quarto-listing)) {
+  max-width: 100% !important;
+  width: 100%;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.page-layout-full iframe {
+  width: 100% !important;
+}

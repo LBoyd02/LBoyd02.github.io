@@ -1,5 +1,6 @@
 ---
 title: "Energy & Fixed Income Market Dynamics"
+page-layout: full
 ---
 
 Check out the interactive application below:

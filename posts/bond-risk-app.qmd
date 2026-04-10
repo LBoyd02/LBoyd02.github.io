@@ -1,5 +1,6 @@
 ---
 title: "Fitness & Portfolio Management App"
+page-layout: full
 ---
 
 Check out the interactive application below:
